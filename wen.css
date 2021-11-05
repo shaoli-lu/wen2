@@ -37,6 +37,13 @@ form {
     
 }
 
+#btn {
+    background-color:fb8f4f;
+    color: #2F6700;
+    font-weight: bold;
+    border-radius:5px;
+    padding: 2px 8px;
+}
 iframe {
     margin: 0 0 0 2;
     overflow:auto;
