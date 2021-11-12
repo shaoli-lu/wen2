@@ -32,10 +32,6 @@ img {
     height: 20%
 }
 
-form {
-    flex;
-    
-}
 
 .button {
     background-color:fb8f4f;
@@ -88,3 +84,11 @@ form {
     height: 100%;
     border: 0;
   }
+
+  
+.footer {
+  text-align: center;
+  padding: 20px 0;
+  color: #999;
+  font-size: .9rem;
+}
